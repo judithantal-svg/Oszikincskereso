@@ -1,0 +1,6 @@
+{
+  "name": "Őszi kincskereső",
+  "description": "Magyar nyelvű 2D őszi kincskereső fejlesztőjáték óvodásoknak és kisiskolásoknak nagy képkártyákkal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
